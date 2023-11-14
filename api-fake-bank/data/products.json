@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nome": "Produto 1", "price": 10.57, "img": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg" },
+    { "id": 2, "nome": "Produto 2", "price": 1000.99, "img": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg" },
+    { "id": 3, "nome": "Produto 3", "price": 159.50, "img": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg" },
+    { "id": 4, "nome": "Produto 4", "price": 10.57, "img": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg" }
+]

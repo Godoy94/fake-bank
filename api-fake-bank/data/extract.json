@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "creditType": "Credito",
+        "value": 1000
+    },
+    {
+        "id": 2,
+        "creditType": "Débito",
+        "value": 1000
+    },
+    {
+        "id": 3,
+        "creditType": "Débito",
+        "value": 1000
+    },
+    {
+        "id": 4,
+        "creditType": "Crédito",
+        "value": 1000
+    },
+    {
+        "id": 5,
+        "creditType": "Crédito",
+        "value": 1000
+    }
+]

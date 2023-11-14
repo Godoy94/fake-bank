@@ -1,0 +1,40 @@
+.container-menu {
+    width: 180px;
+    height: 83.5vh;
+    background-color: #ff7b00;
+}
+
+.content-menu {
+    margin: 0 20px;
+    height: 300px;
+
+    background-color: #ffb700;
+    box-shadow: -1px 1px 20px rgba(0, 0, 0, 0.5);
+
+    display: flex;
+    flex-direction: column;   
+}
+
+ul,
+li,
+a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    line-height: 35px;
+    display: block;
+}
+
+a {
+    padding-left: 10px;
+}
+
+a:hover {
+    background-color: #ffaa00;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #ffaa00;
+  }

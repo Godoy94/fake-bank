@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Home" },
+    { "id": 2, "name": "Extrato" },
+    { "id": 3, "name": "Pagamentos" },
+    { "id": 4, "name": "Pix" }
+]
